@@ -2,7 +2,7 @@
 #this file is to complete the module assignment
 #read basic information of a disk image file.
 # NOTE: Assumption: the disk image file will always have a standard MBR
-#author: paerhati.remutula, student ID 16099958
+#author: parhat.remtulla
 #date: 20170309  Last edit: 20170315
 
 ############################################################### Import libraries
