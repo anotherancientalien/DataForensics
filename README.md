@@ -1,7 +1,7 @@
 "# DataForensics" 
 This is a simple disk investigating tool, written in Python3.6. An assignment of module DataForensics. 
 
-This tool assumes that a disk image file <example.dd> with a standard MBR will be used.
+This tool assumes that a disk image file <example.dd> with a standard MBR is to be examined.
 
 Prints out information about the disk image as follows:
 * Number of partitions on the disk
@@ -12,3 +12,5 @@ Prints out information about the disk image as follows:
 This tool is written to complete the module assignment.
 
 A disk image file can be created using FTK imager, which also can be used to explore raw data on a hard disk.
+
+This Tool can be improved in numerous ways, need further work.
